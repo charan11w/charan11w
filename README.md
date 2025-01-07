@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Kumar</h1>
-<h3 align="center">A Computer Science Engineer with a passion for web development. I enjoy crafting user-friendly websites, exploring new technologies, and building projects that make an impact.</h3>
+<h3 align="center">A Computer Science Engineer with a passion for Frontend Development. I enjoy crafting user-friendly websites, exploring new technologies, and building projects that make an impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan11w&label=Profile%20views&color=0e75b6&style=flat" alt="charan11w" /> </p>
 
