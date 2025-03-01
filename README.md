@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan11w" alt="charan11w" /></a> </p>
 
-- 🔭 I’m currently focused on mastering frontend echnologies. [E-commerse website](https://charan11w.github.io/Amazon-project/)
+- 🔭 I’m currently focused on mastering frontend echnologies. 
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on open-source projects related to web development [Youtube Clone](https://charan11w.github.io/youtube-clone-website/)
+- 👯 I’m looking to collaborate on open-source projects related to web development 
 
-- 🤝 I’m looking for help with mastering advanced frontend frameworks. [Rock-Paper-Scissors Game](https://charan11w.github.io/rock-paper-scissors/)
+- 🤝 I’m looking for help with mastering advanced frontend frameworks. 
 
 - 📫 How to reach me **charan11w@gmail.com**
 
