@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focused on mastering frontend Technologies. 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js with Redux**
 
 - 👯 I’m looking to collaborate on open-source projects related to web development 
 
