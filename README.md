@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Charan Kumar</h1>
 <h3 align="center">A Computer Science Engineer with a passion for Frontend Development. I enjoy crafting user-friendly websites, exploring new technologies, and building projects that make an impact.</h3>
 
+🔭 I’m currently focusing on mastering Frontend Technologies.
 
+🌱 I’m learning React.js with Redux & Next.js to enhance performance-driven web applications.
 
-- 🔭 I’m currently focused on mastering frontend Technologies. 
+👯 I’m open to collaborating on open-source projects related to web development and UI/UX improvements.
 
-- 🌱 I’m currently learning **React Js with Redux**
+🤝 I’m seeking guidance in advanced frontend frameworks and best practices for scalable applications.
 
-- 👯 I’m looking to collaborate on open-source projects related to web development 
-
-- 🤝 I’m looking for help with mastering advanced frontend frameworks. 
-
-- 📫 How to reach me **charan11w@gmail.com**
+📫 Reach me at charan11w@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
